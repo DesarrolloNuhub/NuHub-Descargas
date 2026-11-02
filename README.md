@@ -9,15 +9,26 @@ Herramientas para la gestión y la calidad BIM dentro de Autodesk Revit.
 | Panel | Plugins |
 |---|---|
 | Calidad BIM | Auditor · Cantidades · Matriz LOIN |
-| Gestión BIM | Colisiones · Revisor · Editar Información · Renombrar · Plantillas · Parámetros · Exportadores |
+| Gestión BIM | Colisiones · Revisor · Editar Información · Renombrar ★ · Plantillas ★ · Parámetros ★ · Bibliotecas ★ · Exportadores |
 | Externos | Validador · Externos |
-| NuHub | Cuenta NuHub (sesión, plan, actualizaciones y soporte) |
+| NuHub | Cuenta NuHub ★ (sesión, plan, actualizaciones y soporte) |
+
+★ **Gratis** con su cuenta NuHub, sin límite de usos.
+
+## Novedades · V.0.20.0
+
+- **Bibliotecas (nuevo, gratis):** busca las familias .rfa de las carpetas de su oficina por categoría y Family Name, con vista previa, y las carga al modelo; exporta el registro de familias a Excel.
+- **Gratis:** Renombrar, Plantillas, Parámetros y Bibliotecas, sin límite de usos.
+- **Exportadores:** la nomenclatura puede usar Sheet Number, Sheet Name y parámetros de Project Information.
+- Todos los plugins en la misma versión (V.0.20.0), íconos que se ven también con el tema oscuro de Revit y botones en gris cuando la cuenta no puede usar un plugin.
+
+**¿Ya tiene NuHub instalado?** Descargue el instalador nuevo y ejecútelo con Revit cerrado: se instala encima, sin desinstalar nada. Los plugins también le avisan «¿Desea actualizar?» al abrirlos.
 
 ## Requisitos
 
 - Windows 10 u 11 de 64 bits.
 - Autodesk Revit 2024, 2025 o 2026 (el instalador instala en las versiones que encuentre).
-- Conexión a internet y una cuenta NuHub (se crea gratis desde el plugin Cuenta, con período de prueba).
+- Conexión a internet y una cuenta NuHub (se crea gratis desde el plugin Cuenta: los plugins ★ son gratis y los demás traen período de prueba).
 
 ## Cómo instalar
 
