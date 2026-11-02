@@ -15,12 +15,12 @@ Herramientas para la gestión y la calidad BIM dentro de Autodesk Revit.
 
 ★ **Gratis** con su cuenta NuHub, sin límite de usos.
 
-## Novedades · V.0.20.0
+## Novedades · V.0.1.0
 
 - **Bibliotecas (nuevo, gratis):** busca las familias .rfa de las carpetas de su oficina por categoría y Family Name, con vista previa, y las carga al modelo; exporta el registro de familias a Excel.
 - **Gratis:** Renombrar, Plantillas, Parámetros y Bibliotecas, sin límite de usos.
 - **Exportadores:** la nomenclatura puede usar Sheet Number, Sheet Name y parámetros de Project Information.
-- Todos los plugins en la misma versión (V.0.20.0), íconos que se ven también con el tema oscuro de Revit y botones en gris cuando la cuenta no puede usar un plugin.
+- Todos los plugins en la misma versión (V.0.1.0), íconos que se ven también con el tema oscuro de Revit y botones en gris cuando la cuenta no puede usar un plugin.
 
 **¿Ya tiene NuHub instalado?** Descargue el instalador nuevo y ejecútelo con Revit cerrado: se instala encima, sin desinstalar nada. Los plugins también le avisan «¿Desea actualizar?» al abrirlos.
 
